@@ -53,7 +53,7 @@ A full-stack weather application built while learning frontend and backend devel
 
 **Tech:** HTML • CSS • JavaScript • Node.js • Express.js • OpenWeather API • Render
 
-🔗 [Live Demo](https://weather-app-yh17.onrender.com)
+🔗 [Live Demo](YOUR_LIVE_DEMO_LINK)
 
 ---
 
@@ -67,5 +67,28 @@ I'm continuously building small projects to practice individual concepts and gra
 
 I'm following a project-based approach:
 
-```text
-Learn → Build → Debug → Deploy → Improve
+**Learn → Build → Debug → Deploy → Improve**
+
+Instead of only learning theory, I try to apply each concept by building practical projects.
+
+---
+
+## 🎯 Current Goals
+
+- Improve my Full-Stack Web Development skills
+- Strengthen C++ and DSA
+- Build more real-world projects
+- Contribute to Open Source
+- Gain internship experience
+- Become a strong software engineer
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: [Karan Kumar](YOUR_LINKEDIN_LINK)
+- 🌐 Portfolio: Coming soon
+
+---
+
+### 💡 Keep Learning. Keep Building. Keep Improving. 🚀
