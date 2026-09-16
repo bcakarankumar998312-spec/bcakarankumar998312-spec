@@ -1,44 +1,71 @@
-              Karan Kumar
-       Full-Stack Developer 🚀
+# Hi, I'm Karan Kumar 👋
 
-Building web applications | Learning DSA
-Open Source • JavaScript • Node.js
+### 🚀 Full-Stack Web Development Learner
 
-🔗 Portfolio   💼 LinkedIn   📧 Email
+I'm currently learning **Full-Stack Web Development** and building projects to turn what I learn into practical experience.
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━
+I enjoy understanding how things work behind the scenes, from frontend interactions to backend APIs, databases, and deployment.
 
-🛠️ Tech Stack
-JavaScript • Node.js • Express • MongoDB
-HTML • CSS • C++ • Git
+---
 
-🚀 Featured Projects
+## 👨‍💻 About Me
 
-🌤️ Weather App
-Full-stack weather application
-[Live Demo] [GitHub]
+- 🌱 Currently learning **Full-Stack Web Development**
+- 💻 Working with **JavaScript, Node.js, Express.js, HTML & CSS**
+- 🗄️ Learning **MongoDB & Mongoose**
+- 🧠 Practicing **Data Structures & Algorithms with C++**
+- 🤖 Exploring **AI/ML**
+- 🔧 Building small projects to strengthen my development skills
+- 🌍 Interested in **Open Source & real-world development**
+- 🎯 Working toward becoming a strong software engineer
 
-📝 Mini Blog
-Express + EJS + REST API
+---
 
-📚 Currently Learning
-DSA • Backend Development • Open Source
+## 🛠️ Technologies I'm Learning
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━
+### Frontend
 
-"Building, learning and improving every day."
+HTML • CSS • JavaScript • DOM • Fetch API • LocalStorage
 
-<!--
-**bcakarankumar998312-spec/bcakarankumar998312-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend
 
-Here are some ideas to get you started:
+Node.js • Express.js • REST APIs • EJS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Database
+
+MongoDB • Mongoose
+
+### Programming & Tools
+
+C++ • Git • GitHub • VS Code
+
+### Currently Exploring
+
+Open Source • Deployment • AI/ML
+
+---
+
+## 🚀 Projects
+
+### 🌤️ Weather App
+
+A full-stack weather application built while learning frontend and backend development.
+
+**Tech:** HTML • CSS • JavaScript • Node.js • Express.js • OpenWeather API • Render
+
+🔗 [Live Demo](https://weather-app-yh17.onrender.com)
+
+---
+
+### 📝 More Projects Coming Soon...
+
+I'm continuously building small projects to practice individual concepts and gradually move toward larger applications.
+
+---
+
+## 📚 My Learning Journey
+
+I'm following a project-based approach:
+
+```text
+Learn → Build → Debug → Deploy → Improve
