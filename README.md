@@ -1,4 +1,32 @@
-## Hi there 👋
+              Karan Kumar
+       Full-Stack Developer 🚀
+
+Building web applications | Learning DSA
+Open Source • JavaScript • Node.js
+
+🔗 Portfolio   💼 LinkedIn   📧 Email
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🛠️ Tech Stack
+JavaScript • Node.js • Express • MongoDB
+HTML • CSS • C++ • Git
+
+🚀 Featured Projects
+
+🌤️ Weather App
+Full-stack weather application
+[Live Demo] [GitHub]
+
+📝 Mini Blog
+Express + EJS + REST API
+
+📚 Currently Learning
+DSA • Backend Development • Open Source
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+"Building, learning and improving every day."
 
 <!--
 **bcakarankumar998312-spec/bcakarankumar998312-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
