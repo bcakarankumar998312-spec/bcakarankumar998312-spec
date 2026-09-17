@@ -86,7 +86,7 @@ Instead of only learning theory, I try to apply each concept by building practic
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Karan Kumar](YOUR_LINKEDIN_LINK)
+- 💼 LinkedIn: www.linkedin.com/in/karan-kumar-sde
 - 🌐 Portfolio: Coming soon
 
 ---
