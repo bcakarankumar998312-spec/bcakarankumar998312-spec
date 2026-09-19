@@ -81,7 +81,7 @@ Instead of only learning theory, I try to apply each concept by building practic
 - Contribute to Open Source
 - Gain internship experience
 - Become a strong software engineer
-
+ 
 ---
 
 ## 📫 Connect With Me
