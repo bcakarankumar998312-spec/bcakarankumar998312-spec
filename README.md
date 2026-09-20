@@ -6,7 +6,7 @@ I'm currently learning **Full-Stack Web Development** and building projects to t
 
 I enjoy understanding how things work behind the scenes, from frontend interactions to backend APIs, databases, and deployment.
 
----
+----
 
 ## 👨‍💻 About Me
 
