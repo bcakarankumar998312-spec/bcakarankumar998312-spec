@@ -53,7 +53,7 @@ A full-stack weather application built while learning frontend and backend devel
 
 **Tech:** HTML • CSS • JavaScript • Node.js • Express.js • OpenWeather API • Render
 
-🔗 [Live Demo](YOUR_LIVE_DEMO_LINK)
+🔗 [Live Demo]([YOUR_LIVE_DEMO_LINK](https://weather-app-yh17.onrender.com/))
 
 ---
 
